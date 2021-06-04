@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Plate485.png</filename>
+	<path>F:\Visual-Studio Projekte\Eigener Datensatz\object_detection_demo-master\data\images\Plate485.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>446</xmin>
+			<ymin>342</ymin>
+			<xmax>537</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>744</xmin>
+			<ymin>271</ymin>
+			<xmax>788</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
